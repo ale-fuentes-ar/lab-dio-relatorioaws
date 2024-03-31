@@ -50,7 +50,7 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 Assinatura do Responsável pelo Projeto:
 
-_Raul Alejandro Fuentes_
+_Raul Alejandro Fuentes_<br>
 <small>cloud Manager</small>
 
 
